@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<div>
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -12,10 +10,8 @@
    viewBox="0 0 182 168"
    height="168mm"
    width="182mm">
-  <defs
-     id="defs2" />
-  <metadata
-     id="metadata5">
+  <defs id="defs2" />
+  <metadata id="metadata5">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -761,4 +757,3 @@
     </g>
   </g>
 </svg>
-</div>
